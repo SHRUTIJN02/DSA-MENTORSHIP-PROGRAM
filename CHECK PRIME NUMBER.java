@@ -7,7 +7,7 @@ public class Program3 {
         int n=s1.nextInt();
         int flag=0;
         if(n==1){
-            System.out.println("mumber is prime");
+            System.out.println("mumber is neither prime nor composite");
             
         }
         for(int i=2;i<=n/2;i++){
